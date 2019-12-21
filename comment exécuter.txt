@@ -1,0 +1,12 @@
+*********Bienvenue dans le projet compilation********
+
+Vous trouvez dans ce dossier 3 fichiers 
+
+- Proj.l : contient les expressions régulières
+
+- Proj.y : contient les grammaires
+
+- lecture.txt : l'entré de test
+
+Pour exécuter 
+lancer la commande : Proj.exe lecture.txt

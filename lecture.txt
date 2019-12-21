@@ -1,0 +1,16 @@
+z=7+(8*3);
+z==
+A={1,6,18,9};
+B={18,4,6,20};
+C=A UN B;
+C==
+i=2+z*card(C);
+i==
+E=C\{1,7,18}; 
+E==
+F=comp(C);
+F==
+H=comp(C\A UN E);
+H==
+G=A IN (E UN F);
+G==
